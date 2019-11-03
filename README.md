@@ -1,6 +1,6 @@
 # BrainShuck
 
-BrainShuck is a simple Brainf\*\*k interpreter written in C++;
+BrainShuck is a simple Brainf\*\*k interpreter written in C++.
 
 ## Compilation
 
