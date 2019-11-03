@@ -60,9 +60,6 @@ int main(int argc, char *argv[]) {
 				source.seekg(LOOPS.back());
 				break;
 		}
-//		int dummy;
-//		cin >> dummy;
-//		cout << source.tellg() << " " << c << " ";
 	}
 	return 0;
 }
