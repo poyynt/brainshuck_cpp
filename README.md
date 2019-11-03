@@ -1,4 +1,4 @@
-### BrainShuck
+# BrainShuck
 
 BrainShuck is a simple Brainf\*\*k interpreter written in C++;
 
@@ -11,5 +11,10 @@ cmake .
 make
 make install
 ```
+
+## Useful Resources
+
+[Learn Brainf\*\*k](https://esolangs.org/wiki/Brainfuck)
+
 
 
