@@ -12,6 +12,12 @@ make
 make install
 ```
 
+## Usage
+
+```
+brainshuck file.bf
+```
+
 ## Useful Resources
 
 [Learn Brainf\*\*k](https://esolangs.org/wiki/Brainfuck)
